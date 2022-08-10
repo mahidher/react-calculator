@@ -1,0 +1,11 @@
+.calculator-display{
+    min-height: 8rem;
+}
+
+.result{
+    height:4rem;
+}
+
+.calculation{
+    min-height: 4rem;
+}
